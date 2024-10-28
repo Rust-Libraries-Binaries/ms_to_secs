@@ -1,12 +1,12 @@
 # ms_to_secs
 
-`ms_to_secs` is a simple Rust library that converts milliseconds to seconds as an `f64` value. This crate is designed for quick, lightweight time conversions, making it useful for time-based calculations in various applications.
+ms_to_secs is a simple Rust library that converts milliseconds to seconds as an f64 value. This crate is designed for quick, lightweight time conversions, making it useful for time-based calculations in various applications.
 
 ## Installation
 
-To use `ms_to_secs`, add it to your `Cargo.toml`:
+To use ms_to_secs, add it to your Cargo.toml:
 
-```toml
+toml
 [dependencies]
 ms_to_secs = "0.1.0"
 
@@ -24,8 +24,4 @@ Lightweight and easy to use
 
 ## License
 
-This project is licensed under the MIT License.
-
-
-
-
+This project is licensed under the MIT License.  
