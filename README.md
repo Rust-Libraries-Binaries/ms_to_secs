@@ -6,7 +6,6 @@ ms_to_secs is a simple Rust library that converts milliseconds to seconds as an 
 
 To use ms_to_secs, add it to your Cargo.toml:
 
-toml
 [dependencies]
 ms_to_secs = "0.1.0"
 
