@@ -1,7 +1,7 @@
 [package]
 name = "ms_to_secs"
-version = "0.1.1"
-authors = ["Ben Santora"]
+version = "0.1.2"
+authors = ["Ben Santora <bensatlantik@gmail.com"]
 edition = "2018"
 description = "A simple Rust library to convert milliseconds to seconds."
 license = "MIT"
